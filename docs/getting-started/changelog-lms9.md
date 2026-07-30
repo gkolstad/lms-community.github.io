@@ -21,6 +21,7 @@
 	- [#1549](https://github.com/LMS-Community/slimserver/pull/1549) \- Update CODE2000 font to 1.176 (@mipa87)
 	- [#1550](https://github.com/LMS-Community/slimserver/pull/1550) \- Update wizard plugin JSON encoding to use UTF-8 for HTML templates (@mipa87)
 	- [#1593](https://github.com/LMS-Community/slimserver/pull/1593) \- Make external scanner startup failures visible (@maxxi-bit)
+	- [#1615](https://github.com/LMS-Community/slimserver/pull/1615) \- Improve UPnP/DLNA Media Renderer compatibility: use HTTP/1.1 (@stsichler)
 	- [#1619](https://github.com/LMS-Community/slimserver/pull/1619) \- Switch from JSON::XS::VersionOneAndTwo to JSON::XS (@mavit)
 
 - Platform Support:
