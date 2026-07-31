@@ -39,6 +39,7 @@
 	- Fix an issue with the image resizer where an explicitly requested format was not honored when padding was needed.
 	- On Debian based systems avoid downloading packages for unsupported Perl versions.
 	- Do not try to decode http responses if Content-Encoding is "identity" (@505)
+	- Fix TitleFormatter UTF8 encoding (@darrel-k)
 	- [#10](https://github.com/LMS-Community/Audio-Scan/pull/10) \- id3: Never add undef to tag hash for empty or invalid TXXX key (@cheesestraws)
 	- [#1121](https://github.com/LMS-Community/slimserver/issues/1121) \- Try to catch "426 - Upgrade Required" HTTP responses in the remote scanner
 	- [#1140](https://github.com/LMS-Community/slimserver/pull/1140) \- Fix stat returning an empty size for most files (@jecaro)
