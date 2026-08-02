@@ -17,6 +17,7 @@
 	- More aggressively cache DNS lookups, re-use cached data even if expired, but if lookup fails.
 	- Removed CODE2000 font. Use the optional "Render non-latin text on the Squeezebox..." plugin instead.
 	- Improve [HTTP/1.1 compatibility using keep-alive and SSL/TLS.](https://forums.lyrion.org/forum/developer-forums/developers/1823228-possible-issue-with-http-1-1-keep-alive-and-small-body)
+	- Improve artwork matching based on track metadata.
 	- [#1548](https://github.com/LMS-Community/slimserver/pull/1548) \- Updated Czech translation (@mipa87)
 	- [#1549](https://github.com/LMS-Community/slimserver/pull/1549) \- Update CODE2000 font to 1.176 (@mipa87)
 	- [#1550](https://github.com/LMS-Community/slimserver/pull/1550) \- Update wizard plugin JSON encoding to use UTF-8 for HTML templates (@mipa87)
