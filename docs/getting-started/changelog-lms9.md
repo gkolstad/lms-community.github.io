@@ -9,8 +9,9 @@
 	- [#1541](https://github.com/LMS-Community/slimserver/pull/1541) \- Add per-player timezone support: players can now display date and time, and fire alarms, in their own timezone rather than the server's. (@boudekerk)
 	- [#1546](https://github.com/LMS-Community/slimserver/pull/1546) \- Add "Default Adjustment for Local Tracks" player option. (@SamInPgh)
 	- [#1564](https://github.com/LMS-Community/slimserver/pull/1564) \- Add Dismiss option to Jive alarm popup (@boudekerk)
-	- [#1605](https://github.com/LMS-Community/slimserver/pull/1605) \- MusicMagic: add configurable host for remote MusicIP instances (@jonstahl)
-	- [#1612](https://github.com/LMS-Community/slimserver/pull/1612) \- MusicMagic: add configurable genre filter (@jonstahl)
+	- [#1605](https://github.com/LMS-Community/slimserver/pull/1605) \- MusicIP: add configurable host for remote MusicIP instances (@jonstahl)
+	- [#1612](https://github.com/LMS-Community/slimserver/pull/1612) \- MusicIP: add configurable genre filter (@jonstahl)
+	- [#1629](https://github.com/LMS-Community/slimserver/pull/1629) \- MusicIP: add host setting and Dynamic Path Conversion (@jonstahl)
 
 - Server Changes:
 
@@ -24,6 +25,7 @@
 	- [#1593](https://github.com/LMS-Community/slimserver/pull/1593) \- Make external scanner startup failures visible (@maxxi-bit)
 	- [#1615](https://github.com/LMS-Community/slimserver/pull/1615) \- Improve UPnP/DLNA Media Renderer compatibility: use HTTP/1.1 (@stsichler)
 	- [#1619](https://github.com/LMS-Community/slimserver/pull/1619) \- Switch from JSON::XS::VersionOneAndTwo to JSON::XS (@mavit)
+	- [#1620](https://github.com/LMS-Community/slimserver/pull/1620) \- Add current track's technical information to status query (@SamInPgh)
 
 - Platform Support:
 
