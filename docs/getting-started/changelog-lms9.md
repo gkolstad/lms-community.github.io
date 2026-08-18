@@ -12,6 +12,7 @@
 	- [#1605](https://github.com/LMS-Community/slimserver/pull/1605) \- MusicIP: add configurable host for remote MusicIP instances (@jonstahl)
 	- [#1612](https://github.com/LMS-Community/slimserver/pull/1612) \- MusicIP: add configurable genre filter (@jonstahl)
 	- [#1629](https://github.com/LMS-Community/slimserver/pull/1629) \- MusicIP: add host setting and Dynamic Path Conversion (@jonstahl)
+	- [#1635](https://github.com/LMS-Community/slimserver/pull/1635) \- Return results technical data from transcoding in "status" query (@SamInPgh)
 
 - Server Changes:
 
