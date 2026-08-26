@@ -27,6 +27,7 @@
 	- [#1615](https://github.com/LMS-Community/slimserver/pull/1615) \- Improve UPnP/DLNA Media Renderer compatibility: use HTTP/1.1 (@stsichler)
 	- [#1619](https://github.com/LMS-Community/slimserver/pull/1619) \- Switch from JSON::XS::VersionOneAndTwo to JSON::XS (@mavit)
 	- [#1620](https://github.com/LMS-Community/slimserver/pull/1620) \- Add current track's technical information to status query (@SamInPgh)
+	- [#1644](https://github.com/LMS-Community/slimserver/issues/1644) \- Improve check for writable folder, use more robust File::Copy::move() rather than rename().
 
 - Platform Support:
 
