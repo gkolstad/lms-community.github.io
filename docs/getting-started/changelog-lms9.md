@@ -70,6 +70,7 @@
 - Bug Fixes:
 
 	- Make sure we encode user input in search queries to prevent XSS attacks.
+	- [#1641](https://github.com/LMS-Community/slimserver/issues/1641) \- Trying to play a folder for which exists a playlist of the same name, the playlist would be played.
 
 - Other:
 
