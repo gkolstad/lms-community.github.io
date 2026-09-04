@@ -4,6 +4,7 @@
 
 - New Features:
 
+	- Add WebSocket plugin providing a /ws endpoint for clients to send commands and receive server notifications.
 	- Allow plugins to provide custom fonts to be used when rendering non-latin text on ip3k based players.
 	- [#1286](https://github.com/LMS-Community/slimserver/issues/1286) \- Display album cover for AudioAddict stations (inspired by some work by @mcduman)
 	- [#1541](https://github.com/LMS-Community/slimserver/pull/1541) \- Add per-player timezone support: players can now display date and time, and fire alarms, in their own timezone rather than the server's. (@boudekerk)
