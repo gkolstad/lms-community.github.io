@@ -5,6 +5,7 @@
 - New Features:
 
 	- Add WebSocket plugin providing a /ws endpoint for clients to send commands and receive server notifications.
+	- Implement a WebSocket client in the Default skin, allowing for real-time status change pushes from the server to the web browser.
 	- Allow plugins to provide custom fonts to be used when rendering non-latin text on ip3k based players.
 	- [#1286](https://github.com/LMS-Community/slimserver/issues/1286) \- Display album cover for AudioAddict stations (inspired by some work by @mcduman)
 	- [#1541](https://github.com/LMS-Community/slimserver/pull/1541) \- Add per-player timezone support: players can now display date and time, and fire alarms, in their own timezone rather than the server's. (@boudekerk)
@@ -59,6 +60,7 @@
 	- [#1571](https://github.com/LMS-Community/slimserver/pull/1571) \- Guard ReplayGain and URL tag processing against arrayrefs (@Rouzax)
 	- [#1587](https://github.com/LMS-Community/slimserver/pull/1587) \- Fix RSS feed parsing when a podcast URL contains wide characters (@robho)
 	- [#1611](https://github.com/LMS-Community/slimserver/pull/1611) \- Include album-link roles in unified artist list roles (@darrell-k)
+	- [#1651](https://github.com/LMS-Community/slimserver/pull/1651) \- An artist could be shown with another artist's picture, if they shared the role on a common album.
 
 - Other:
 
