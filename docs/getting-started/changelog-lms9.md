@@ -15,6 +15,7 @@
 	- [#1612](https://github.com/LMS-Community/slimserver/pull/1612) \- MusicIP: add configurable genre filter (@jonstahl)
 	- [#1629](https://github.com/LMS-Community/slimserver/pull/1629) \- MusicIP: add host setting and Dynamic Path Conversion (@jonstahl)
 	- [#1635](https://github.com/LMS-Community/slimserver/pull/1635) \- Return results technical data from transcoding in "status" query (@SamInPgh)
+	- [#1660](https://github.com/LMS-Community/slimserver/pull/1660) \- Expose the LMS host's current UTC offset through the "date" query (@mfs-adam)
 
 - Server Changes:
 
@@ -29,6 +30,7 @@
 	- [#1615](https://github.com/LMS-Community/slimserver/pull/1615) \- Improve UPnP/DLNA Media Renderer compatibility: use HTTP/1.1 (@stsichler)
 	- [#1619](https://github.com/LMS-Community/slimserver/pull/1619) \- Switch from JSON::XS::VersionOneAndTwo to JSON::XS (@mavit)
 	- [#1620](https://github.com/LMS-Community/slimserver/pull/1620) \- Add current track's technical information to status query (@SamInPgh)
+	- [#1638](https://github.com/LMS-Community/slimserver/pull/1638) \- MUSICBRAINZ\_TRACKID is not unique, so use MUSICBRAINZ\_RELEASETRACKID if present. (@darrel-k, @mikes)
 	- [#1644](https://github.com/LMS-Community/slimserver/issues/1644) \- Improve check for writable folder, use more robust File::Copy::move() rather than rename().
 
 - Platform Support:
